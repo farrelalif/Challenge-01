@@ -1,0 +1,93 @@
+#hero
+{
+    flex-direction: column;
+}
+.nav-link
+{
+    margin-left: 2rem;
+}
+.hero
+{
+    height: 35rem;
+    background-color: #F1F3FF;
+}
+
+
+/*our services*/
+.ourservices
+{
+   height: 35rem;
+}
+.text
+{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 40rem;;
+}
+
+/*why us*/
+.whyus
+{
+    height: 25rem;
+}
+
+
+/*testimonial*/
+.testimonial
+{
+    height: 10rem;
+}
+
+.swiper-slide
+{
+    display: flex;
+    flex-direction: row;
+    background-color: #F1F3FF;
+    height: 10rem;
+    padding-top: 3rem;
+
+}
+.test
+{
+    border: solid 1px;
+}
+
+
+
+/*sewa mobil*/
+.sewa
+{
+    width: 80%;
+    height: 20rem;
+    margin-top: 3rem;
+    border-radius: 25px;
+    background-color: #0D28A6;
+    ;
+}
+.sewa h1
+{
+    margin-top: 5rem;
+}
+/*faq*/
+.faq
+{
+    margin-top: 5rem;
+    height: 30rem;
+}
+
+.Question
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.accordion
+{
+    width: 70%;
+}
+
+.accordion-header
+{
+    border: solid 1px;
+}
